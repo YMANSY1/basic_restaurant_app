@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        flutter-version: ['3.22.0']
+        flutter-version: ['3.32.8']
 
     steps:
       - name: Checkout repository
